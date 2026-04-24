@@ -42,5 +42,7 @@ Z:/
 
 So the rule is that you store your media in a similar way. 
 
+# Download
+<a href="https://raw.githubusercontent.com/masterofobzene/mpv-content-throttler-script/refs/heads/main/content-throttler.lua">RIGHT CLICK -> Save Link As</a>
 
 Sorry for the long text but there is no other way of explaning this specific script.
