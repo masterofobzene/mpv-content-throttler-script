@@ -1,5 +1,5 @@
 # Content-throttler
-An mpv player script to fix imbalance in playback of content.
+A mpv player script to fix imbalance in playback of content.
 
 __TL;DR__: It evens the playlist when you have big folders with so much 
 content that it floods all the playlist with its media. This script will
